@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>dajiewong.com</title>
+  <title>dajiewong</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="dajiewong.com/"/>
+  <link href="https://dajaywang.github.io/"/>
   <updated>2016-08-14T08:57:20.000Z</updated>
-  <id>dajiewong.com/</id>
+  <id>https://dajaywang.github.io/</id>
   
   <author>
     <name>Dajie Wong</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="dajiewong.com/2016/08/14/hello-world/"/>
-    <id>dajiewong.com/2016/08/14/hello-world/</id>
+    <link href="https://dajaywang.github.io/2016/08/14/hello-world/"/>
+    <id>https://dajaywang.github.io/2016/08/14/hello-world/</id>
     <published>2016-08-14T08:57:20.000Z</published>
     <updated>2016-08-14T08:57:20.000Z</updated>
     
