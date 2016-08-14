@@ -4,16 +4,21 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="dajiewong.com/"/>
   <updated>2016-08-14T08:57:20.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>dajiewong.com/</id>
+  
+  <author>
+    <name>Dajie Wong</name>
+    
+  </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/08/14/hello-world/"/>
-    <id>http://yoursite.com/2016/08/14/hello-world/</id>
+    <link href="dajiewong.com/2016/08/14/hello-world/"/>
+    <id>dajiewong.com/2016/08/14/hello-world/</id>
     <published>2016-08-14T08:57:20.000Z</published>
     <updated>2016-08-14T08:57:20.000Z</updated>
     
